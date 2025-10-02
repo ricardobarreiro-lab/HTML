@@ -5,8 +5,18 @@ body {
 }
 
 header {
-    border-bottom: solid 2px hsl(182, 99%, 50%);
+    border-bottom: solid 2px hsl(0, 0%, 100%);
     padding: 20px;
     font-size: 32px;
-    color:hsl(182, 99%, 50%) (42, 122, 228);
+    color:rgb(1, 245, 254) (42, 122, 228);
+}
+section {
+    background: rgb(2, 150, 187);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
 }
