@@ -11,7 +11,7 @@ header {
     color:rgb(1, 245, 254) (42, 122, 228);
 }
 section {
-    background: rgb(2, 150, 187);
+    background: rgb(80, 2, 13);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -32,3 +32,4 @@ h1 {
   img {
     height: 200px;
   }
+  .chamada section 
