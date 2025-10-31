@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgb(3, 87, 102);
+    background: rgb(0, 0, 0);
     margin: 0px;
 }
 
@@ -8,10 +8,10 @@ header {
     border-bottom: solid 2px hsl(0, 0%, 100%);
     padding: 20px;
     font-size: 32px;
-    color:rgb(1, 245, 254) (42, 122, 228);
+    color:rgb(92, 1, 1) (42, 122, 228);
 }
 section {
-    background: rgb(80, 2, 13);
+    background: rgba(12, 12, 12, 0.856);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
