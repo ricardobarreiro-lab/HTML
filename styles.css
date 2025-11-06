@@ -8,10 +8,10 @@ header {
     border-bottom: solid 2px hsl(0, 0%, 100%);
     padding: 20px;
     font-size: 32px;
-    color:rgb(92, 1, 1) (42, 122, 228);
+    color:rgb(0, 0, 0) (42, 122, 228);
 }
 section {
-    background: rgba(12, 12, 12, 0.856);
+    background: rgba(114, 2, 2, 0.856);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -20,7 +20,19 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+.chamada {
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+/* código omitido */
 
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 h1 {
     font-size: 40px;
   }
@@ -33,3 +45,12 @@ h1 {
     height: 200px;
   }
   .chamada section 
+  
+  .categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
